@@ -118,6 +118,6 @@ int main()
     std::cout << "Input weight: ";
     std::cin >> weight;*/
 
-    for (int w{ 1000 }; w <= 1050; w++)
-        Weighing(w);
+    /*for (int w{ 1000 }; w <= 1050; w++)
+        Weighing(w);*/
 }
